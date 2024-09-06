@@ -38,12 +38,11 @@ knitr::knit_hooks$set(chunk = function(x, options) {
 })
 ```
 
-[^umberto]: Assistant Teaching Professor, Department of Political Science and Computational Social Sciences Program, University of California, San Diego, <umbertomig@ucsd.edu>, <http://umbertomig.com>.
+[^umberto]: Assistant Teaching Professor, Department of Political Science and Computational Social Sciences Program, University of California, San Diego. Email: <umbertomig@ucsd.edu>. Website: <http://umbertomig.com>.
 
-[^gabriel]: Associate Professor, Department of Public Policy and International Relations, São Paulo State University, <gabi.cepal@gmail.com>.
+[^gabriel]: Associate Professor, Department of Public Policy and International Relations, São Paulo State University. Email: <gabi.cepal@gmail.com>.
 
-[^danilo]: Visiting Assistant Professor, Department of Quantitative Theory and
-  Methods, Emory University. Senior Fellow, School of Social and Political Sciences, University of Lincoln, <danilo.freire@emory.edu>, <https://danilofreire.github.io>.
+[^danilo]: Visiting Assistant Professor, Department of Quantitative Theory and Methods, Emory University. Senior Fellow, School of Social and Political Sciences, University of Lincoln. Email: <danilo.freire@emory.edu>. Website: <https://danilofreire.github.io>.
 
 \newpage
 
